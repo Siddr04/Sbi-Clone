@@ -1,0 +1,38 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .header{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  body{
+    background-color: silver;
+  }
+  marquee{
+    text-align: left;
+    color: ghostwhite;
+    word-spacing: 3px;
+  }
+  .title{
+    display: flex;  
+  flex-wrap: wrap;
+  } 
+   #info{
+    font-size: large;
+   }
+   #top{
+    font-size: large;
+    color: red;
+    text-align: center;
+   }
+   .service{
+    
+   }
